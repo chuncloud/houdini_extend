@@ -1,0 +1,30 @@
+QMainWindow{
+    background-color: rgb(58, 58, 58);
+}
+QPushButton{
+    border-radius: 20px;
+}
+QRadioButton{
+    padding: 0px;
+    background-color: rgb(58, 58, 58);
+    margin: 0px;
+}
+QHeaderView{
+    background-color: rgb(43, 43, 43);
+    color: rgb(200, 200, 200);
+    border: 0px solid rgb(255, 0, 0);
+    padding: 0px;
+    margin: 0px;
+}
+QTreeWidget{
+    background-color: rgb(43, 43, 43);
+    color: rgb(200, 200, 200);
+    alternate-background-color: rgb(58, 58, 58);
+    border-right: none;
+    border-left: none;
+    padding: 0px;
+}
+QComboBox{
+    selection-backgroud-color: rgb(255, 0, 0);
+    border-radius: 2px;
+}
